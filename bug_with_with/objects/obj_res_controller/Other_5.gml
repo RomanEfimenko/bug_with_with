@@ -1,0 +1,2 @@
+/// @description
+clean_resource()
